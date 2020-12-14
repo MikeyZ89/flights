@@ -7,7 +7,7 @@
         "deploy": "npm run start && gh-pages -d build"
     },
     "description": "Pour Wine and Taproom Website",
-    "homepage": "https://mikeyz89.github.io/pour",
+    "homepage": "https://mikeyz89.github.io/flights",
     "license": "MIT",
     "author": "Mike Zlotkowski",
     "contributors": [
